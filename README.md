@@ -20,7 +20,7 @@
 
 1.确保本机环境可用javafx[在jdk14的环境下 出现找不到主类的错误 更换jdk1.8即可]
 
-2.下载 https://github.com/h4ckdepy/Un1kPoc/releases 
+2.下载 https://github.com/h4ckdepy/Un1kPoc/releases/tag/v2.0.0
 
 3.切换至jar包目录
 
