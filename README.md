@@ -8,6 +8,10 @@
 
 测试周期完毕后 我将开源web端代码供您使用,测试版本需要联通互联网,后续本地环境搭建后只需要可与web端联通即可。
 
+## Log
+
+2022-08-29 更新至版本V2.0.1 旧版本已不可使用
+
 ## Introduce
 
 日常工作里,我经常会因为找不到漏洞POC而头疼,看着漏洞poc目录里杂七杂八的脚本,我感受到了前所未有的压力。
@@ -20,7 +24,7 @@
 
 1.确保本机环境可用javafx[在jdk14的环境下 出现找不到主类的错误 更换jdk1.8即可]
 
-2.下载 https://github.com/h4ckdepy/Un1kPoc/releases/tag/v2.0.0
+2.下载 https://github.com/h4ckdepy/Un1kPoc/releases
 
 3.切换至jar包目录
 
