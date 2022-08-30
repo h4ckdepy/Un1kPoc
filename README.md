@@ -33,6 +33,13 @@ Un1kPoc是一款基于JavaFX开发,用于漏洞Poc集成、漏洞Poc搜索利用
 
 ...
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/Un1kTeam/Un1kPoc.svg)](https://starchart.cc/Un1kTeam/Un1kPoc)
+
+## Law
+
+> 在中国大陆使用本工具时,请严格遵守《中华人民共和国网络安全法》。该工具只能在获得充分法律授权的情况下用于企业安全建设,如果您在使用此工具的过程中有任何非法行为，您将承担所有后果。本工具的所有开发者和贡献者将不承担任何法律和连带责任。除非您已完全阅读、理解并接受本协议的所有条款，否则请勿安装和使用本工具。您以任何其他方式（明示或暗示）使用或接受本协议应被视为已阅读并同意受本协议约束。
+
 ## Thanks
 
 [![Program](https://img.shields.io/badge/Program-MDUT-red.svg?style=flat-square)](https://github.com/SafeGroceryStore/MDUT)
