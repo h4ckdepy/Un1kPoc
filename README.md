@@ -11,7 +11,7 @@ Un1kPoc是一款基于JavaFX开发,用于漏洞Poc集成、漏洞Poc搜索利用
 
 申请测试版本免费授权码问卷:
 
-https://wenjuan.meituan.com/result/5049241
+https://wenjuan.meituan.com/m/survey/5049241
 
 ## ScreenShot-V2.2.0
 
