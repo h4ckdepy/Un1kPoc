@@ -3,9 +3,12 @@
 [![Author](https://img.shields.io/badge/author-h4ckdepy-red.svg?style=flat-square)](https://github.com/h4ckdepy)
 [![Belong](https://img.shields.io/badge/Belong-Un1kTeam-red.svg?style=flat-square)](https://github.com/Un1kTeam)
 
+本项目是漏洞管理项目,我里面拥有的POC并不是本项目的卖点。希望师傅们在使用前能明确这一点,测试周期结束后,我的服务器会关闭,我也会使用本地化的项目投入生产。
+
 ## Introduce
 
 Un1kPoc是一款基于JavaFX开发,用于漏洞Poc集成、漏洞Poc搜索利用、FoFa资产搜索利用、批量资产漏洞利用的图形化工具。它降低了漏洞利用者的技术水平,仅仅只需要维护人员维护相应POC,使用者搜索漏洞并点击利用即可。此外,它大大减少了安全工作者在日常渗透测试工作中寻找漏洞POC的时间,减少了因此耗费的精力，便于漏洞的管理与维护。工具的可用性是随时间增长的,换句话说,只要能够持续维护下去。后续对于漏洞利用,只需要一个Un1kPoc就行了。只要你想,他可以是市面上任何的OA系统测试工具、CMS站点测试工具,也可以是资产收集工具,半自动化漏洞利用工具，以及你所需要即使是非漏洞利用的工具（例如使用接口生成音频、使用接口发送短信）。
+
 
 ## Authorization code
 
