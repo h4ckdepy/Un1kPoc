@@ -3,7 +3,7 @@
 [![Author](https://img.shields.io/badge/author-h4ckdepy-red.svg?style=flat-square)](https://github.com/h4ckdepy)
 [![Belong](https://img.shields.io/badge/Belong-Un1kTeam-red.svg?style=flat-square)](https://github.com/Un1kTeam)
 
-本项目是漏洞管理项目,我里面拥有的POC并不是本项目的卖点。希望师傅们在使用前能明确这一点,测试周期结束后,我的服务器会关闭,我也会使用本地化的项目投入生产。
+本项目是漏洞管理项目,我里面拥有的POC并不是本项目的卖点。希望师傅们在使用前能明确这一点,测试周期结束后,我的服务器会关闭,您将需要自己补充漏洞POC。
 
 ## Introduce
 
@@ -12,9 +12,9 @@ Un1kPoc是一款基于JavaFX开发,用于漏洞Poc集成、漏洞Poc搜索利用
 
 ## Authorization code
 
-申请测试版本免费授权码问卷:
+在服务端开发完毕后开源前,使用本人服务接口做框架测试。所以需要限制用户操作,约束行为,顺便检测团队授权功能模块的可靠性。
 
-所以没有收到测试版授权码的朋友可以联系我的微信:echo ZGVweW92bw== |base64 -d
+所以需要申请本人服务端授权码的师傅,可以联系我的微信:echo ZGVweW92bw== |base64 -d 
 
 ## ScreenShot-V2.2.0
 
