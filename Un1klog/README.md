@@ -4,7 +4,9 @@
 
 ## Run
 
-> python3 Server.py
+> python3 Un1kLogServer.py
+
+![image](https://user-images.githubusercontent.com/42985524/188563594-9198636e-f0e2-4af7-9400-4673e9f628ae.png)
 
 ## Notice
 
